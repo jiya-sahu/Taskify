@@ -1,0 +1,4 @@
+[2026-06-14T07:41:59.113Z] ERROR: MongoDB connection failed : querySrv ENOTFOUND _mongodb._tcp.mRRNB
+[2026-06-14T07:50:54.271Z] ERROR: MongoDB connection failed : querySrv ENOTFOUND _mongodb._tcp.mRRNB
+[2026-06-14T07:51:23.062Z] ERROR: MongoDB connection failed : querySrv ENOTFOUND _mongodb._tcp.mRRNB
+[2026-06-14T07:53:13.835Z] ERROR: MongoDB connection failed : querySrv ENOTFOUND _mongodb._tcp.mRRNB
