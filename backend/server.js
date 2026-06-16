@@ -5,8 +5,11 @@ import morgan from "morgan";
 import connectDB from "./config/database.js";
 import logger from "./utils/logger.js";
 import { env } from "./config/env.js";
+import errorHandler from "./middlewares/errorHandler.js";  
+import authRoutes from "./routes/auth.routes.js";
 
 const app = express();
+app.use(errorHandler);
 
 const corsOptions = {
   origin:
@@ -21,7 +24,7 @@ app.use(cors());
 app.use(helmet());
 app.use(morgan("dev"));
 app.use(express.json());
-
+app.use("/api/v1/auth", authRoutes);
 app.get("/health", (req, res) => {
   return res.status(200).json({
     success: true,

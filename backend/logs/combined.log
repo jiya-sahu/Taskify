@@ -6,3 +6,14 @@
 [2026-06-14T08:32:39.605Z] INFO: MongoDB connected successfully
 [2026-06-14T08:33:26.332Z] INFO: MongoDB connected successfully
 [2026-06-14T08:33:26.342Z] INFO: server is running on port 5050
+[2026-06-16T07:00:36.212Z] INFO: MongoDB connected successfully
+[2026-06-16T07:00:36.236Z] INFO: server is running on port 5050
+[2026-06-16T07:11:03.956Z] INFO: MongoDB connected successfully
+[2026-06-16T07:11:03.991Z] INFO: server is running on port 5050
+[2026-06-16T07:13:02.090Z] INFO: MongoDB connected successfully
+[2026-06-16T07:13:02.109Z] INFO: server is running on port 5050
+[2026-06-16T07:13:19.713Z] INFO: MongoDB connected successfully
+[2026-06-16T07:13:19.730Z] INFO: server is running on port 5050
+[2026-06-16T07:19:00.549Z] ERROR: MongoDB connection failed : querySrv ECONNREFUSED _mongodb._tcp.cluster0.cc4fxce.mongodb.net
+[2026-06-16T07:20:40.119Z] INFO: MongoDB connected successfully
+[2026-06-16T07:20:40.148Z] INFO: server is running on port 5050
