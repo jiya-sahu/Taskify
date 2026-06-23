@@ -17,3 +17,83 @@
 [2026-06-16T07:19:00.549Z] ERROR: MongoDB connection failed : querySrv ECONNREFUSED _mongodb._tcp.cluster0.cc4fxce.mongodb.net
 [2026-06-16T07:20:40.119Z] INFO: MongoDB connected successfully
 [2026-06-16T07:20:40.148Z] INFO: server is running on port 5050
+[2026-06-20T07:11:34.651Z] INFO: MongoDB connected successfully
+[2026-06-20T07:11:34.668Z] INFO: server is running on port 5050
+[2026-06-20T07:42:58.445Z] INFO: MongoDB connected successfully
+[2026-06-20T07:42:58.467Z] INFO: server is running on port 5050
+[2026-06-20T07:45:16.535Z] INFO: MongoDB connected successfully
+[2026-06-20T07:45:16.551Z] INFO: server is running on port 5050
+[2026-06-20T07:47:12.393Z] INFO: MongoDB connected successfully
+[2026-06-20T07:47:12.408Z] INFO: server is running on port 5050
+[2026-06-20T07:59:21.934Z] INFO: MongoDB connected successfully
+[2026-06-20T07:59:21.954Z] INFO: server is running on port 5050
+[2026-06-20T07:59:21.948Z] INFO: MongoDB connected successfully
+[2026-06-20T07:59:21.967Z] INFO: server is running on port 5050
+[2026-06-20T08:03:09.626Z] INFO: MongoDB connected successfully
+[2026-06-20T08:03:09.641Z] INFO: server is running on port 5050
+[2026-06-20T08:03:09.834Z] INFO: MongoDB connected successfully
+[2026-06-20T08:03:09.846Z] INFO: server is running on port 5050
+[2026-06-20T08:06:14.129Z] INFO: MongoDB connected successfully
+[2026-06-20T08:06:14.168Z] INFO: server is running on port 5050
+[2026-06-20T08:06:14.208Z] INFO: MongoDB connected successfully
+[2026-06-20T08:06:14.228Z] INFO: server is running on port 5050
+[2026-06-20T08:06:55.081Z] INFO: MongoDB connected successfully
+[2026-06-20T08:06:55.095Z] INFO: server is running on port 5050
+[2026-06-20T08:06:55.133Z] INFO: MongoDB connected successfully
+[2026-06-20T08:06:55.146Z] INFO: server is running on port 5050
+[2026-06-20T08:08:10.290Z] INFO: MongoDB connected successfully
+[2026-06-20T08:08:10.304Z] INFO: server is running on port 5050
+[2026-06-20T08:08:10.316Z] INFO: MongoDB connected successfully
+[2026-06-20T08:08:10.331Z] INFO: server is running on port 5050
+[2026-06-20T08:20:05.433Z] INFO: MongoDB connected successfully
+[2026-06-20T08:20:05.450Z] INFO: server is running on port 5050
+[2026-06-20T08:20:05.676Z] INFO: MongoDB connected successfully
+[2026-06-20T08:20:05.697Z] INFO: server is running on port 5050
+[2026-06-20T08:21:22.579Z] INFO: MongoDB connected successfully
+[2026-06-20T08:21:22.594Z] INFO: server is running on port 5050
+[2026-06-20T08:21:25.254Z] INFO: MongoDB connected successfully
+[2026-06-20T08:21:25.268Z] INFO: server is running on port 5050
+[2026-06-20T08:21:56.087Z] INFO: MongoDB connected successfully
+[2026-06-20T08:21:56.099Z] INFO: server is running on port 5050
+[2026-06-20T08:21:56.154Z] INFO: MongoDB connected successfully
+[2026-06-20T08:21:56.164Z] INFO: server is running on port 5050
+[2026-06-20T08:22:49.011Z] INFO: MongoDB connected successfully
+[2026-06-20T08:22:49.025Z] INFO: server is running on port 5050
+[2026-06-20T08:22:49.039Z] INFO: MongoDB connected successfully
+[2026-06-20T08:22:49.055Z] INFO: server is running on port 5050
+[2026-06-20T08:24:39.102Z] INFO: MongoDB connected successfully
+[2026-06-20T08:24:39.120Z] INFO: server is running on port 5050
+[2026-06-20T08:24:39.154Z] INFO: MongoDB connected successfully
+[2026-06-20T08:24:39.167Z] INFO: server is running on port 5050
+[2026-06-20T08:27:15.161Z] INFO: MongoDB connected successfully
+[2026-06-20T08:27:15.161Z] INFO: MongoDB connected successfully
+[2026-06-20T08:27:15.176Z] INFO: server is running on port 5050
+[2026-06-20T08:27:15.176Z] INFO: server is running on port 5050
+[2026-06-20T08:34:12.174Z] INFO: MongoDB connected successfully
+[2026-06-20T08:34:12.203Z] INFO: server is running on port 5050
+[2026-06-20T08:34:12.219Z] INFO: MongoDB connected successfully
+[2026-06-20T08:34:12.235Z] INFO: server is running on port 5050
+[2026-06-20T08:38:27.583Z] INFO: MongoDB connected successfully
+[2026-06-20T08:38:27.600Z] INFO: server is running on port 5050
+[2026-06-20T08:38:27.620Z] INFO: MongoDB connected successfully
+[2026-06-20T08:38:27.634Z] INFO: server is running on port 5050
+[2026-06-20T08:40:11.533Z] INFO: MongoDB connected successfully
+[2026-06-20T08:40:11.532Z] INFO: MongoDB connected successfully
+[2026-06-20T08:40:11.547Z] INFO: server is running on port 5050
+[2026-06-20T08:40:11.549Z] INFO: server is running on port 5050
+[2026-06-20T08:44:32.011Z] INFO: MongoDB connected successfully
+[2026-06-20T08:44:32.027Z] INFO: server is running on port 5050
+[2026-06-20T08:44:32.058Z] INFO: MongoDB connected successfully
+[2026-06-20T08:44:32.073Z] INFO: server is running on port 5050
+[2026-06-20T08:45:17.112Z] INFO: MongoDB connected successfully
+[2026-06-20T08:45:17.129Z] INFO: server is running on port 5050
+[2026-06-20T08:45:17.126Z] INFO: MongoDB connected successfully
+[2026-06-20T08:45:17.144Z] INFO: server is running on port 5050
+[2026-06-20T08:45:32.845Z] INFO: MongoDB connected successfully
+[2026-06-20T08:45:32.859Z] INFO: server is running on port 5050
+[2026-06-20T08:45:32.960Z] INFO: MongoDB connected successfully
+[2026-06-20T08:45:33.014Z] INFO: server is running on port 5050
+[2026-06-20T08:49:42.261Z] INFO: MongoDB connected successfully
+[2026-06-20T08:49:42.274Z] INFO: server is running on port 5050
+[2026-06-20T08:49:42.284Z] INFO: MongoDB connected successfully
+[2026-06-20T08:49:42.300Z] INFO: server is running on port 5050
