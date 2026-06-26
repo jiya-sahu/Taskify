@@ -23,6 +23,7 @@ export const protect = asyncHandler(async (req, res, next) => {
   }
 
   req.user = user;
+  console.log("Authenticated user:", req.user); // Log the authenticated user
 
   next();
 });
